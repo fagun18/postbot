@@ -33,6 +33,6 @@ To keep the Postbot commit history organized and easy to understand, please foll
 - Limit each commit to a single logical change.
 - Use small, incremental commits rather than large, sweeping changes.
 # License
-By contributing to Postbot, you agree that your contributions will be licensed under the MIT License. See the LICENSE file for more information.
+By contributing to Postbot, you agree that your contributions will be licensed under the MIT License. See the LICENSE file (https://github.com/fagun18/postbot/blob/main/LICENSE) for more information.
 
 Thank you for your contributions to Postbot!
